@@ -1,1 +1,1 @@
-print ("Derivadas sin integrales:")
+print ("Derivdas sin integrales")
