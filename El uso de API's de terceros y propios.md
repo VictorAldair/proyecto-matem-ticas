@@ -1,7 +1,5 @@
 # ¿Qué es una API?
-Es una interfaz de programación de aplicaciones, un grupo de reglas que facilitan la comunicación entre aplicaciones para poder intercambiar mensajes o datos.
-
-Con las APIs se puede simplificar y facilitar el proceso de desarrollo de una app pudiendo ahorrar tiempo y dinero. Además, los desarrolladores de una API proporcionan la información necesaria acerca de su uso e integración mediante documentación completa.
+Una API es una llave de acceso a funciones que podemos utilizar de un servicio web provisto por un tercero, dentro de una página web empresarial, de manera segura y confiable. API significa Interfaz de Programación de Aplicaciones, y su definición formal le da poca información útil a alguien que no entiende mucho de informática
 
 ¿Por qué implementar una API?
 Desde el comienzo de ABAMobile, desarrollamos apps con APIs de terceros en los proyectos que llevamos a cabo tanto en grandes empresas como en pymes. Además trabajamos con todo tipo de APIs. APIs para sistemas de pago, reconocimiento de imágenes o firma digital. Todo ello para ofrecer el mejor servicio y la solución más adecuada a tus necesidades.
